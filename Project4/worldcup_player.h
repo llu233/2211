@@ -1,0 +1,9 @@
+int playernum=-1;
+char input;
+int code;
+char name;
+int flag;
+int age;
+char club;
+int i;
+int mainp();
